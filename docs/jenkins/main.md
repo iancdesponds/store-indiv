@@ -90,3 +90,7 @@ Cada microsserviço possui seu próprio `Jenkinsfile`, permitindo pipelines inde
 ```groovy
 --8<-- "https://raw.githubusercontent.com/iancdesponds/store-order-service/refs/heads/main/Jenkinsfile"
 ```
+
+## Jenkins com Todos os Serviços Rodando
+
+![Jenkins](../img/jenkins.png)

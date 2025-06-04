@@ -60,3 +60,7 @@ Os arquivos de configuração do MiniKube são apenas criados nos repositórios 
     ``` { .yaml .copy .select linenums="1" }
     --8<-- "https://raw.githubusercontent.com/iancdesponds/store-order-service/refs/heads/main/k8s/k8s.yaml"
     ```
+
+## Todos os serviços rodando no MiniKube
+
+![minikube](../img/k8s_rodando.png)
